@@ -8,7 +8,7 @@ Installation
 ------------
 
 ```console
-$ go get github.com/mhcerri/abstracticon
+$ go get github.com/mhcerri/abstracticon/...
 ```
 
 Usage
